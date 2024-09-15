@@ -7,17 +7,17 @@
 
 - 🔭 I’m currently working on **Silent Scream 2**
 
-- 🌱 I’m currently learning **Cloud Gaming, CICT, DevOps**
+- 🌱 I’m currently learning **Cloud Gaming, CICD, DevOps**
 
 - 🤝 I’m looking for help with [Unity Mesh Processor](https://github.com/gitOpu/MeshGenerator23)
 
-- 📝 I regularly write articles on [joyonlineschool.com](joyonlineschool.com)
+- 📝 I regularly write articles on [marufhow.hashnode.dev](https://marufhow.hashnode.dev/), [dev.to/marufhow](https://dev.to/marufhow)
 
 - 💬 Ask me about **C#, Unity**
 
-- 📫 How to reach me **maruf.dhaka2010@gmail.com**
+- 📫 How to reach me **marufhowlader96@gmail.com**, **maruf.dhaka2010@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/about-maruf/](https://www.linkedin.com/in/about-maruf/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/marufhow/), [marufhow.com](https://marufhow.com/)
 
 - ⚡ Fun fact **I think I am funny.**
 
