@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maruf</h1>
-<h3 align="center">[gitopu.github.io](https://gitopu.github.io)</h3>
+<h3 align="center">[www.marufhow.com](http://marufhow.com/)</h3>
 
 <h3 align="center">I am a professional with a blend of technical expertise, creative insight, and strong analytical abilities, aiming to leverage my knowledge in crafting immersive and interactive gaming experiences. As a passionate Unity Developer with a solid background in development, optimization, porting, and programming, my goal is to contribute innovative game mechanics and compelling narratives to a forward-thinking development team. I am always eager to learn about new gaming technologies and trends.</h3>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Silent Scream 2**
 
-- 🌱 I’m currently learning **Cloud Gaming, CICD, DevOps**
+- 🌱 I’m currently improve my learning **Cloud Gaming, CICD, DevOps**
 
 - 🤝 I’m looking for help with [Unity Mesh Processor](https://github.com/gitOpu/MeshGenerator23)
 
