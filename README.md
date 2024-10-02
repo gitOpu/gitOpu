@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently improve my learning **Cloud Gaming, CICD, DevOps**
 
-- 🤝 I’m looking for help with [Unity Mesh Processor](https://github.com/gitOpu/MeshGenerator23)
+- 🤝 I’m looking for help with [3d Mesh Generation, Deformation & Cutting](https://github.com/gitOpu/MeshGenerator23)
 
 - 📝 I regularly write articles on [marufhow.hashnode.dev](https://marufhow.hashnode.dev/), [dev.to/marufhow](https://dev.to/marufhow)
 
